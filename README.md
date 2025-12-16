@@ -2,11 +2,11 @@
 * [MarkDown Demo](https://markdown-it.github.io/)
 
 **AI**
-*[Gemini](https://gemini.google.com/app)
-*[AI Studio](https://aistudio.google.com/prompts/new_chat)
-*[Grok](https://grok.com/?referrer=website)
-*[DeepSeek](https://chat.deepseek.com/)
-*[Claude](https://claude.ai/)
+* [Gemini](https://gemini.google.com/app)
+* [AI Studio](https://aistudio.google.com/prompts/new_chat)
+* [Grok](https://grok.com/?referrer=website)
+* [DeepSeek](https://chat.deepseek.com/)
+* [Claude](https://claude.ai/)
  
 
 **Passive**
