@@ -1,8 +1,7 @@
 **MarkDown Demo**
 * [MarkDown Demo](https://markdown-it.github.io/)
- ## 오늘의 비트코인 시세 (TradingView 위젯)
+ 
 
-현재 비트코인 가격은 시장의 주요 관심사입니다.
 **Passive**
 * [Repocket](https://repocket.com/dashboard/share-internet)
 * [EarnApp Dashboard](https://earnapp.com/dashboard/me/passive-income)
