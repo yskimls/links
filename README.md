@@ -29,7 +29,9 @@
 * [Bless Dashboard](https://bless.network/dashboard/airdrops)
 
 
-**Off**
+
+<details>
+ <summary>Off</summary> 
 * [Dashboard | DAWN](https://dashboard.dawninternet.com/signup/success)
 * [ByteLixir Dashboard](https://dash.bytelixir.com/profile)
 * [Dashboard | OptimAI: Mine Data. Fuel AI. Earn Rewards.](https://node.optimai.network/dashboard)
@@ -39,5 +41,7 @@
 * [Dashboard | distribute.ai](https://dashboard.distribute.ai/provider/credits)
 * [PacketStream - Dashboard](https://app.packetstream.io/dashboard)
 * [Dashboard | Peer - Proxyrack](https://peer.proxyrack.com/dashboard)
+</details> 
 
----
+**Util**
+[Wireless survey and create WiFi coverage- netspotapp](https://www.netspotapp.com/)
