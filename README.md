@@ -1,6 +1,9 @@
 **MarkDown Demo**
 * [MarkDown Demo](https://markdown-it.github.io/)
 
+**AI 에이전트(Computer Browser Use)**
+* [browser-use](https://docs.browser-use.com/quickstart#2-choose-your-favorite-llm)
+
 **AI**
 * [Gemini](https://gemini.google.com/app)
 * [AI Studio](https://aistudio.google.com/prompts/new_chat)
