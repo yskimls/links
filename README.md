@@ -3,7 +3,7 @@
 
 **AI 에이전트(Computer Browser Use)**
 * [Browser-use](https://docs.browser-use.com/quickstart#2-choose-your-favorite-llm)
-* [Google Project Mariner] (https://deepmind.google/models/project-mariner/)
+* [Google Project Mariner](https://deepmind.google/models/project-mariner/)
 **AI**
 * [Gemini](https://gemini.google.com/app)
 * [AI Studio](https://aistudio.google.com/prompts/new_chat)
