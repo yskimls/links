@@ -9,7 +9,7 @@
 **AI**
 * [Gemini](https://gemini.google.com/app)
 * [AI Studio](https://aistudio.google.com/prompts/new_chat)
-* [Notebook LLM] (https://notebooklm.google.com/)
+* [Notebook LLM](https://notebooklm.google.com/)
 * [Grok](https://grok.com/?referrer=website)
 * [DeepSeek](https://chat.deepseek.com/)
 * [Claude](https://claude.ai/)
