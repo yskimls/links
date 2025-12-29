@@ -9,6 +9,7 @@
 **AI**
 * [Gemini](https://gemini.google.com/app)
 * [AI Studio](https://aistudio.google.com/prompts/new_chat)
+* [Notebook LLM] (https://notebooklm.google.com/)
 * [Grok](https://grok.com/?referrer=website)
 * [DeepSeek](https://chat.deepseek.com/)
 * [Claude](https://claude.ai/)
@@ -51,3 +52,6 @@
 
 **Util**
 * [Wireless survey and create WiFi coverage- netspotapp](https://www.netspotapp.com/)
+
+**한컴**
+* 한컴오피스(kimXXXX-구글)-(https://www.hancomdocs.com/ko/mydrive)
